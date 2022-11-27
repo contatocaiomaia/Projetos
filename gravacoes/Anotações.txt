@@ -1,0 +1,3 @@
+* Melhorar o timbre do caixa da bateria;
+* Baixar o MODO BASS vs;
+* Baixar o ícone pra ficar como a página de acesso;
